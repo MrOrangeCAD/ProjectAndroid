@@ -1,16 +1,9 @@
 package algonquin.cst2335.assignment;
 
-import static android.text.Html.FROM_HTML_MODE_LEGACY;
-
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.AlertDialog;
-import android.content.Context;
-import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.text.Html;
-import android.text.Spanned;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -22,15 +15,12 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.room.Room;
 import android.content.Intent;
-import android.widget.Toast;
-
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import java.util.ArrayList;
 import algonquin.cst2335.assignment.databinding.ActivityNytBinding;
-
 
 public class NYTActivity extends AppCompatActivity {
 
