@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Assignment</string>
+    <string name="searchText">Search an article</string>
+    <string name="searchButton">SEARCH</string>
+    <string name="searchTitle">TITLE</string>
+    <string name="searchAbstract">ABSTRACT</string>
+    <string name="searchDate">DATE</string>
+    <string name="aboutString">About...</string>
+    <string name="headlineTitle">HEADLINE</string>
+    <string name="visitLink">VISIT WEB PAGE BY PRESSING THE LINK:</string>
+    <string name="publicationDate">PUBLICATION DATE</string>
+    <string name="favouriteTitle">FAVOURITES</string>
+    <string name="linkTitle">VISIT LINK</string>
+    <string name="favouritesButton">ADD TO FAVOURITES</string>
+    <string name="addedFavourites">Added to favourites</string>
+    <string name="aboutHelp">Welcome to The New York Times!\n\n
+        * Please type a topic and then press search.\n\n
+        * You can add articles to a favourite list pressing the title and find them by pressing the star button.\n\n
+        * You can visit the webpage and read the article by pressing the link.\n\n
+        * You can choose English Version (Canada) or German Version (Deutschland) by pressing the flag.\n\n
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="deletedFavourites">Deleted from favourites</string>
+
+</resources>

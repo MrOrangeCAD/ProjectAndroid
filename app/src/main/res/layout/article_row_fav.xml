@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/headlineArticle"
+        android:layout_width="144dp"
+        android:layout_height="45dp"
+        android:layout_margin="10dp"
+        android:text="Headline: "
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/urlArticle"
+        android:layout_width="220dp"
+        android:layout_height="48dp"
+        android:layout_margin="10dp"
+        android:autoLink="web"
+        android:text="@string/linkTitle"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/abstractArticle"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:autoLink="web"
+        android:text="@string/searchAbstract"
+        android:textSize="12dp"
+         />
+
+    <TextView
+        android:visibility="invisible"
+        android:id="@+id/pubDate"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:text="@string/searchDate"
+        android:textSize="14dp" />
+
+
+</LinearLayout>

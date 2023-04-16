@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="searchText">Einen Artikel suchen</string>
+    <string name="searchButton">SEARCH</string>
+    <string name="searchTitle">TITEL</string>
+    <string name="searchAbstract">ABSTRACT</string>
+    <string name="searchDate">DATUM</string>
+    <string name="aboutString">Über...</string>
+    <string name="headlineTitle">HEADLINE</string>
+    <string name="visitLink">BESUCHEN SIE DIE WEBSEITE, INDEM SIE AUF DEN LINK KLICKEN:</string>
+    <string name="publicationDate">VERÖFFENTLICHUNGSDATUM</string>
+    <string name="favouriteTitle">FAVORITEN</string>
+    <string name="linkTitle">LINK</string>
+    <string name="favouritesButton">ZU DEN FAVORITEN HINZUFÜGEN</string>
+    <string name="addedFavourites">Zu den Favoriten hinzugefügt</string>
+    <string name="deletedFavourites">Aus den Favoriten gestrichen</string>
+    <string name="aboutHelp">Willkommen bei der New York Times!\n\n
+        * Bitte geben Sie ein Thema ein und drücken Sie dann auf Suchen.\n\n
+        * Sie können Artikel zu einer Favoritenliste hinzufügen, indem Sie auf den Titel drücken, und sie finden, indem Sie auf die Sterntaste drücken.\n\n
+        * Sie können die Webseite besuchen und den Artikel lesen, indem Sie auf den Link drücken.\n\n
+        * Sie können die englische Version (Kanada) oder die deutsche Version (Deutschland) auswählen, indem Sie auf die Flagge drücken.\n\n</string>
+
+</resources>
